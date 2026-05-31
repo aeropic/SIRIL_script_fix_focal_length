@@ -14,8 +14,11 @@ edit the processing script you use (eg OSC_Preproceesing.ssf found in the applic
 
 ### extract of the OSC_Preprocessing script
   save ../result_$LIVETIME:%d$s
+  
   cd ..
+  
   pyscript fix_focal.py 
+  
   close
 
 ## what does it do ?
