@@ -23,7 +23,7 @@ edit the processing script you use (eg OSC_Preproceesing.ssf found in the applic
 
 ## what does it do ?
 
-It just changes the default value 50 mm into your focal length in the result file. You can edit the file with notepadd++ and see at the top :
+It just changes the default value 50 mm into your focal length in the result file. To check it works, you can edit the file with notepad++ and see at the top :
 
 <img width="1398" height="274" alt="focal" src="https://github.com/user-attachments/assets/94b3714d-0e3b-4537-bff4-952350edd44a" />
 
