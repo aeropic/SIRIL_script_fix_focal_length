@@ -15,7 +15,6 @@ edit the processing script you use (eg OSC_Preproceesing.ssf found in the applic
 ### extract of the OSC_Preprocessing script
   save ../result_$LIVETIME:%d$s
   cd ..
-  # script python pour patcher la FOCALLEN du fichier FIT à 1002mm
   pyscript fix_focal.py 
   close
 
