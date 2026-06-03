@@ -8,7 +8,7 @@ The acquired raw images come with a default 50 mm in the focal length of the len
 
 ## the solution
 ### first option
-use the "preprocess_with_master_focalfixed.py" python script. Drop it into the SIRIL's script folder (for me C:\Users\ALAIN\AppData\Local\siril-scripts\Aeropic) and it will become available.
+use the "OSC_preprocess_focalfixed.py" python script. Drop it into the SIRIL's script folder (for me C:\Users\ALAIN\AppData\Local\siril-scripts\Aeropic) and it will become available.
 When you stack your images, just run this script!
 
 If you want other preprocessing just translate the .ssf into .py file...
